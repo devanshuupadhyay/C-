@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ds/vLw9xQPU=",
+  "success": true,
+  "projectFilePath": "d:\\Learning\\C#\\Data Structure\\Data Structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\devan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
